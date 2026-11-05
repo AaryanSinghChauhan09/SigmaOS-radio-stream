@@ -1,0 +1,6 @@
+[component]
+name = "SigmaOS-radio-stream"
+tier = 4
+description = "Online radio station directory and streaming audio player client for SigmaOS"
+contracts = ['radio-streamer', 'icecast-client', 'station-catalog']
+upstream_inspirations = ['https://github.com/omacom/radio.omarchy.org']
